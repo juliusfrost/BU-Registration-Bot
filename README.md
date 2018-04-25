@@ -1,8 +1,10 @@
 # BU Auto-Registration Bot
 
-Please keep this descrete. The more people that use it, the less effective this will be.  
+With BU Ninja becoming more and more widespread, it is becoming harder to get the class you want. With this bot, however, you can beat the competition for free! (at the moment)  
 
-Please fill this form to get python source code  
+*Please keep this descrete. The more people that use it, the less effective this will be.*  
+
+Fill this form to get python source code  
 
 https://goo.gl/forms/1fhgMlSXeFBAxT272
 
