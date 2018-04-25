@@ -1,4 +1,4 @@
-# Auto-Class-Registration
+# BU Auto-Registration Bot
 
 Please keep this descrete. The more people that use it, the less effective this will be.  
 
