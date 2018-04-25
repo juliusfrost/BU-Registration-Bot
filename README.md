@@ -1,9 +1,10 @@
 # Auto-Class-Registration
 
-Please keep this descrete. The more people that use it, the less effective this will be.  
-Latest Version:  
+Please keep this descrete. The more people that use it, the less effective this will be.  
 
-TBD
+Please fill this form to get python source code  
+
+https://goo.gl/forms/1fhgMlSXeFBAxT272
 
 ## Installation
 Using anaconda,
