@@ -9,7 +9,7 @@ https://goo.gl/forms/1fhgMlSXeFBAxT272
 Using anaconda,
 `pip install selenium`  
 
-Google and download chrome webdriver, extract, and add to path.  
+Google and download chrome webdriver, extract to somewhere safe, and add the file path to PATH (in envirionment variables for windows users).  
 Restart your computer for it to register.  
 Save code to python file, edit credentials and courses, then run.
 
