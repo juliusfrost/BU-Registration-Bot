@@ -2,8 +2,6 @@
 
 With BU Ninja becoming more and more widespread, it is becoming harder to get the class you want. With this bot, however, you can beat the competition for free! (at the moment)  
 
-*Please keep this descrete. The more people that use it, the less effective this will be.*  
-
 Email me at `juliusf@bu.edu` or fill this form to get python source code  
 https://goo.gl/forms/1fhgMlSXeFBAxT272
 
