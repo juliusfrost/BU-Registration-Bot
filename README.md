@@ -14,3 +14,6 @@ Using anaconda,
 Google and download chrome webdriver, extract, and add to path.  
 Restart your computer for it to register.  
 Save code to python file, edit credentials and courses, then run.
+
+## How it works
+Using the Selenium API, the script opens a browser and automatically logs you into the BU Student link. After that it grabs the cookies and closes the browser. Then it sends queries to the course browser and when your class is open, it gets the course selection ID and registers by making a request with that information.
