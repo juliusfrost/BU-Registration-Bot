@@ -13,5 +13,9 @@ Google and download chrome webdriver, extract to somewhere safe, and add the fil
 Restart your computer for it to register.  
 Save code to python file, edit credentials and courses, then run.
 
+### Optional
+If you want you can change which browser to open with Selenium. Goto http://selenium-python.readthedocs.io/api.html and 
+Then replace this on line 90: `driver = webdriver.Chrome()` to whatever browser you desire. For AWS, find out how to install PhantomJS as it doesn't require any GUI. For PhantomJS it would look like `driver = webdriver.PhantomJS()`.
+
 ## How it works
 Using the Selenium API, the script opens a browser and automatically logs you into the BU Student link. After that it grabs the cookies and closes the browser. Then it sends queries to the course browsing page and when your class is open, it grabs the course selection ID and registers by making a request with that information.
