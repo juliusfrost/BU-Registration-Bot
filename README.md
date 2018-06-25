@@ -3,7 +3,7 @@
 With BU Ninja becoming more and more widespread, it is becoming harder to get the class you want. With this bot, however, you can beat the competition for free! (at the moment)  
 Leave this bot running on a machine and it will constantly check availability of a course and automatically register for it.
 
-## Prerequisits
+## Prerequisites
 Basic knowledge of Python  
 A machine available to run the program 24/7
 
