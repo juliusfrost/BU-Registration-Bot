@@ -16,7 +16,8 @@ Using Anaconda, run this command
 
 Google search and download `chrome webdriver`, extract to somewhere safe, and add the file path to PATH (in envirionment variables for windows users).  
 Restart your computer for it to register.  
-Save code to python file, edit credentials and courses, then run.
+Open the reg.py file with a text editor, and edit the credentials method with your BU login and courses list with the info of the courses you desire.  
+Run the file.
 
 ### Optional
 If you want you can change which browser to open with Selenium. Goto http://selenium-python.readthedocs.io/api.html  
