@@ -5,7 +5,7 @@ Leave this bot running on a machine and it will constantly check availability of
 
 
 ## Installation
-Clone the repository to Desktop or Download zip and extract
+Clone the repository to Desktop or Download ZIP and extract  
 Make sure you have Python installed with Anaconda
 
 Using Anaconda, run this command
