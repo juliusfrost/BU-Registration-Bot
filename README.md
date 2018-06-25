@@ -21,7 +21,7 @@ Finally, run the file and wait.
 
 ### Optional
 If you want you can change which browser to open with Selenium. Goto http://selenium-python.readthedocs.io/api.html  
-Then replace this on line 90: `driver = webdriver.Chrome()` to whatever browser you desire.  
+Then replace this on line 91: `driver = webdriver.Chrome()` to whatever browser you desire.  
 For AWS, find out how to install PhantomJS as it doesn't require any GUI. For PhantomJS it would look like `driver = webdriver.PhantomJS()`.
 
 ## How it works
