@@ -4,7 +4,7 @@ With BU Ninja becoming more and more widespread, it is becoming harder to get th
 Leave this bot running on a machine and it will constantly check availability of a course and automatically register for it.
 
 ## Prerequisites
-Basic knowledge of Python  
+Minimal knowledge of Python  
 A machine available to run the program 24/7
 
 ## Installation
